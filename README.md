@@ -22,8 +22,6 @@ The user can:
 
 * [License](#license)
 
-* [Contributing](#contributing)
-
 * [Questions](#questions)
 
 ## Installation
@@ -43,9 +41,6 @@ npm i
 
     This project is licensed under the MIT license.
   
-## Contributing
-
-
 
 ## Questions
 
