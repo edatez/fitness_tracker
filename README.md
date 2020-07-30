@@ -2,6 +2,8 @@
 # Fitness Tracker
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/edatez/fitness-tracker)
 
+[Deoployed version](https://ancient-wildwood-50690.herokuapp.com/) 
+
 ## Description
 
 A workout tracker application; uses Mongo database with a Mongoose schema and handles routes with Express.
