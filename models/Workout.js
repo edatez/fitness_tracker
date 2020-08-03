@@ -61,6 +61,6 @@ workout.virtual("totalDuration").get(function() {
 //   doc.toJSON({ virtuals: false }).domain; // undefined
 
 
-const workout = mongoose.model("workout", workoutSchema);
-    
-module.exports = workout;
+const Workout = mongoose.model("Workout", workout);
+
+module.exports = Workout;
